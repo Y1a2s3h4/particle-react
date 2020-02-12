@@ -6,10 +6,10 @@ import "./App.css";
 const particlesOpt = {
   particles: {
     number: {
-      value: 100,
+      value: 300,
       density: {
         enable: true,
-        value_area: 850
+        value_area: 1850
       }
     },
     move: {
